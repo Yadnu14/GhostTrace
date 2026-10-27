@@ -213,14 +213,3 @@ GhostTrace/
 └── README.md
 
 ```
-
-
-
-\## 📜 License
-
-
-
-No license has been added yet. A license can be selected when the project is ready for public reuse.
-
-
-
